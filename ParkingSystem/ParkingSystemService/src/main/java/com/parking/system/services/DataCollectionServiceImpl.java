@@ -3,7 +3,6 @@ package com.parking.system.services;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Isolation;
 import org.springframework.transaction.annotation.Propagation;
